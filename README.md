@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreetam18
-- 👀 I’m interested in programing and gamedev
-- 🌱 I’m currently learning c# and unity
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning bash
 - 💞️ I’m looking to collaborate on (null)
 - 📫 Reach me with my e-mail - s.shreetamchatterjee18092008@gmail.com
 
