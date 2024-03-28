@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Shreetam18
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on (null)
-- 📫 Reach me with my e-mail - s.shreetamchatterjee18092008@gmail.com
+- 👋 Hi, I’m WentMissing
+- 👀 I’m interested in Cyber-Security and Linux
+
 
 <!---
-Shreetam18/Shreetam18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WentMissing/WentMissing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
